@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module PrimeNumberGenerator {
+	requires junit;
+}
