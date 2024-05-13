@@ -16,32 +16,28 @@ These instructions will help you set up and run the PrimeGenerator project on yo
 ### Installing
 
 1. Clone the repository:
-
-bash
+```
 git clone https://github.com/shru-239/PrimeNumGenerator.git
-
+```
 
 2. Open the project in your IDE.
 
 3. Build the project using Maven:
-
-bash
+```
 mvn clean install
-
+```
 
 ## Running the Application
 
 You can run the application using Maven:
-
-bash
+```
 mvn spring-boot:run
-
+```
 
 Alternatively, you can run it as a standalone JAR file:
-
-bash
+```
 java -jar target/prime-generator.jar
-
+```
 
 ## Usage
 
